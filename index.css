@@ -1,0 +1,43 @@
+.Header{
+    display:flex;
+    border: 1px solid black;
+    height: 64px;
+}
+.Hola{
+    padding: 20px;
+    text-align: center;
+}
+.Gatos{
+    padding: 20px;
+    text-align: center;
+}
+.main{
+    padding: 90px;
+    border: 10px solid black;
+    text-align: center;
+    font-size: 40px;
+    font-style:oblique;
+    background-color:aqua;
+}
+
+.w3-btn{
+    white-space: 50px;
+    height: 40px;
+
+}
+.w3-btn:hover{
+color:honeydew;
+background:#B91100;
+}
+
+.LOL{
+    white-space: 50px;
+    height: 40px;  
+}
+.LOL:hover{
+    color:#008FFF;
+    background:#66DEFF;
+    }
+
+
+
